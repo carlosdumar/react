@@ -45,7 +45,7 @@ module.exports = (env) => {
                                 loader: 'css-loader',
                                 options: {
                                     minimize: true,
-                                    modules: true,
+                                    // modules: true,
                                 }
                             }
                         ]
